@@ -1,5 +1,5 @@
 {
-    "name": "@yourname/sensor-data-normalizer",
+    "name": "@saurab/sensor-data-normalizer",
     "version": "0.1.0",
     "description": "A Deno library for normalizing sensor data",
     "exports": "./mod.ts"
