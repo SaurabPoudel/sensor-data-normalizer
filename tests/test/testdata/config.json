@@ -1,0 +1,7 @@
+[
+    {
+      "type": "temperature",
+      "unit": "celsius",
+      "inputRange": [0, 1023]
+    }
+  ]

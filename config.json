@@ -1,0 +1,14 @@
+[
+  {
+    "type": "temperature",
+    "unit": "celsius",
+    "inputRange": [0, 1023],
+    "outputRange": [0, 100]
+  },
+  {
+    "type": "humidity",
+    "unit": "percentage",
+    "inputRange": [0, 1023],
+    "outputRange": [0, 100]
+  }
+]
